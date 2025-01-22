@@ -1,0 +1,13 @@
+div{
+    width: 300px;
+    height: 150px;
+}
+
+#first{
+    background-color: red;
+}
+
+#second{
+    background-image: url(raven.jpg);
+    background-size: cover;
+}

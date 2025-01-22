@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#header {
+    flex: 2;
+    background-color: red;
+}
+
+#body {
+    flex: 7;
+    background-color: blue;
+}
+
+#footer {
+    flex: 1;
+    background-color: violet;
+}
